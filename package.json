@@ -1,0 +1,16 @@
+{
+  "name": "x-lrn-babel-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "go": "babel src -d _dest/ -s "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.0"
+  }
+}
