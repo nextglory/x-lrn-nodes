@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "go": "babel src -d _dist/ -s",
+    "go": "babel src/ -d _dist/ -s",
     "compile": "babel "
   },
   "keywords": [],
